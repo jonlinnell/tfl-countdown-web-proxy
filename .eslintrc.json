@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "import/no-unresolved": false,
+    "import/no-dynamic-require": false,
+    "global-require": 0,
+    "comma-dangle": 0,
+    "consistent-return": 1,
+    "semi": [2, "never"],
+    "no-unexpected-multiline": 2
+  }
+}

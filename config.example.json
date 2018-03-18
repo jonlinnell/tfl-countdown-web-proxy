@@ -1,0 +1,6 @@
+{
+  "port": 9000,
+  "logDir": "logs",
+  "privateKey": "/etc/letsencrypt/live/mywebapp/privkey.pem",
+  "certificate": "/etc/letsencrypt/live/mywebapp/fullchain.pem"
+}
